@@ -1,4 +1,4 @@
-# BO2-T6-Zombies-Mod-Menu-Dark-Entity-1.24
+# BO2-T6-Zombies-Mod-Menu-Dark-Entity
 
 • Personal Mods
 • Money Menu
